@@ -1,0 +1,35 @@
+{
+   "category" : "",
+   "category_weight" : "",
+   "title" : "",
+   "sentence" : [
+      {
+         "id" : 0,
+         "reserve_str" : "",
+         "text" : "소속하",
+         "morp" : [
+            {"id" : 0, "lemma" : "소속", "type" : "NNG", "position" : 0},
+            {"id" : 1, "lemma" : "하", "type" : "XSA", "position" : 6}
+         ],
+         "word" : [
+            {"id" : 0, "text" : "소속하", "type" : "", "begin" : 0, "end" : 1}
+         ],
+         "NE" : [
+         ],
+         "chunk" : [
+         ],
+         "dependency" : [
+            {"id" : 0, "text" : "소속하", "head" : 0, "label" : "VP", "mod" : []}
+         ],
+         "SRL" : [
+            {"verb" : "소속하", "sense" : 1, "word_id" : 0, "argument" :[]}
+         ],
+         "relation" : [
+         ],
+         "SA" : [
+         ],
+         "ZA" : [
+         ]
+      }
+   ]
+}
